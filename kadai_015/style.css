@@ -1,14 +1,16 @@
 body {
     font-family: "Arial", "Meiryo", sans-serif
-    font-size: 20px;
     text-align: center;
 
 }
 
+html {
+    font-size: 20px;
+
 /* h1の装飾 */
 h1 {
     font-family: 'Josefin Sans', sans-serif;
-    font-size: 40px;
+    font-size: 2rem;
     letter-spacing: 1.2em;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
     border-bottom: 3px solid rgb(115, 115, 114);
