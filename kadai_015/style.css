@@ -1,11 +1,8 @@
 body {
-    font-family: "Arial", "Meiryo", sans-serif
+    font-family: "Arial", "Meiryo", sans-serif;
+    font-size: 20px;
     text-align: center;
 
-}
-
-html {
-    font-size: 20px;
 }
 
 /* h1の装飾 */
@@ -30,7 +27,3 @@ h1 {
 #basic p {
     font-weight: bold;
 }
-
-
-
-
